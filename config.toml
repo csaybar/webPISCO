@@ -1,0 +1,136 @@
+# ------------------------------------- #
+# ---- General Settings --------------- #
+# ------------------------------------- #
+baseURL = "https://csaybar.github.io/webPISCO"
+title = "PISCOp V2.1"
+theme = "hugo-theme-den"
+#enableRobotsTXT = true       # generate robots.txt
+enableEmoji = true           # use emoji support
+hasCJKLanguage = true        # detect CJK languages for word count etc.
+preserveTaxonomyNames = true # do not make tag names lowercase
+# uglyURLs = true            # more info: https://gohugo.io/content-management/urls/#ugly-urls
+rssLimit = 20                # limit number of entries in RSS feeds
+
+# Copyright, appears in the footer
+# copyright = ""             # default: author.name
+
+# Pagination
+# number of entries per page for archives, tags and categories
+# since we don't have list view, recommend a large value
+paginate = 20
+paginatePath = "page"
+
+# Syntax Hightlight
+PygmentsCodeFences = true
+PygmentsUseClasses = true    # required for shhighlight shortcode
+
+# service plugins
+disqusShortname = ""         # disqus_shortname
+googleAnalytics = ""         # UA-XXXXXXXX-X
+
+# language support # en / de / other... translations present in i18n/
+defaultContentLanguage = "en"           # Default language to use
+defaultContentLanguageInSubdir = true
+
+# Links format
+[permalinks]
+  posts = "/:year/:month/:day/:slug/"
+  categories = "/category/:slug/"      # required
+  tags = "/tag/:slug/"                 # required
+  pages = "/:slug/"
+
+[author]                     # required
+  name = "Cesar Aybar"
+
+[sitemap]                    # required
+  changefreq = "weekly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+# ------------------------------------- #
+# ---- Other Params ------------------- #
+# ------------------------------------- #
+
+[params]
+  since = "2019"             # Site creation time
+  rssFullContent = true      # set true to use full content instead of summary
+
+  # site info (optional)
+  keywords = ["Hugo", "theme","den"]
+  description = "Construction of a high-resolution gridded rainfall dataset for Peru from 1981 to the present day*"
+  logoTitle = "PISCO" # shown on top-left, default: title
+  siteLogoImage = "images/globe.svg"     # shown besides logoTitle
+  # headerTitle = "Den"                   # default: title
+  headerImage = "images/background.jpg"
+  showAuthorCard = true # Whether to show author information below the article
+
+  showMenuLanguages = true
+
+  autoLoadComments = false # auto load comment when scrolling down
+
+  # paginate style, default use numbered pagination links
+  # if true, use original "Previous" and "Next" links.
+  # paginateOriginalStyle = true
+
+  # The date format to use; for a list of valid formats, see https://gohugo.io/functions/format/
+  dateFormatToUse = "2006-01-02"
+
+  google_verification = ""  # Google_Verification
+
+  # Link custom CSS and JS assets
+  #   (relative to /static/css and /static/js respectively)
+  customCSS = []             # if ['custom.css'], load '/static/css/custom.css' file
+  customJS = []              # if ['custom.js'], load '/static/js/custom.js' file
+
+# ------------------------------------- #
+# ---- Related Articles --------------- #
+# ------------------------------------- #
+[related]
+  # Only include matches with rank >= threshold. This is a normalized rank between 0 and 100.
+  threshold = 50
+
+  # To get stable "See also" sections we, by default, exclude newer related pages.
+  includeNewer = true
+
+  # Will lower case keywords in both queries and in the indexes.
+  toLower = false
+
+
+[languages.en]
+  languageCode = "en"
+  languageName = "English"
+  contentDir = "content/en"
+  weight = 1
+
+  [[languages.en.menu.social]]
+    name = "GitHub"
+    weight = 10
+    identifier = "github"
+    url = "https://github.com/csaybar/PISCOp/"
+
+  [[languages.en.menu.links]]
+    name = "About Me"
+    weight = 10
+    identifier = "about-me"
+    url = "https://csaybar.github.io/page/about/"
+
+[languages.spa]
+  languageCode = "de"
+  languageName = "Español"
+  contentDir = "content/spa"
+  weight = 2
+
+  [languages.spa.params]
+    description = "Construcción de un producto grillado de precipitación para Perú de 1981 al presente*"
+
+  [[languages.spa.menu.social]]
+    name = "GitHub"
+    weight = 10
+    identifier = "github"
+    url = "https://github.com/csaybar/PISCOp/"
+
+  [[languages.spa.menu.links]]
+    name = "Sobre mí"
+    weight = 10
+    identifier = "about-me"
+    url = "https://csaybar.github.io/page/about/"

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>images on PISCOp V2.1</title>
+    <link>/en/tag/images/</link>
+    <description>Recent content in images on PISCOp V2.1</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 05 Mar 2018 16:01:23 +0800</lastBuildDate>
+    
+	<atom:link href="/en/tag/images/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Header Image</title>
+      <link>/en/2018/03/05/header-image/</link>
+      <pubDate>Mon, 05 Mar 2018 16:01:23 +0800</pubDate>
+      
+      <guid>/en/2018/03/05/header-image/</guid>
+      <description>This is a simple note.</description>
+    </item>
+    
+  </channel>
+</rss>

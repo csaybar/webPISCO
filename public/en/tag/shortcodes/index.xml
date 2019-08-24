@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>shortcodes on PISCOp V2.1</title>
+    <link>https://csaybar.github.io/webPISCO/en/tag/shortcodes/</link>
+    <description>Recent content in shortcodes on PISCOp V2.1</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 06 Mar 2018 16:01:23 +0800</lastBuildDate>
+    
+	<atom:link href="https://csaybar.github.io/webPISCO/en/tag/shortcodes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Download PISCOp using Google Earth Engine (Javascript)</title>
+      <link>https://csaybar.github.io/webPISCO/en/2018/03/06/download-piscop-using-google-earth-engine-javascript/</link>
+      <pubDate>Tue, 06 Mar 2018 16:01:23 +0800</pubDate>
+      
+      <guid>https://csaybar.github.io/webPISCO/en/2018/03/06/download-piscop-using-google-earth-engine-javascript/</guid>
+      <description>&lt;p&gt;This is a simple preview for styles in Den.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

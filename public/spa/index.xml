@@ -1,0 +1,359 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+  <channel>
+    <title>PISCOp V2.1</title>
+    <link>https://csaybar.github.io/webPISCO/spa/</link>
+    <description>Recent content on PISCOp V2.1</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <lastBuildDate>Tue, 20 Aug 2019 21:38:52 +0800</lastBuildDate>
+    
+        <atom:link href="https://csaybar.github.io/webPISCO/spa/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CITAR</title>
+      <link>https://csaybar.github.io/webPISCO/spa/cite/</link>
+      <pubDate>Tue, 20 Aug 2019 21:38:52 +0800</pubDate>
+      
+      <guid>https://csaybar.github.io/webPISCO/spa/cite/</guid>
+      
+        <description>&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;APA:&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Aybar, C., Fernández, C., Huerta, A., Lavado, W., Vega, F., &amp;amp; Felipe-Obando, O. (2019). Construction of a high-resolution gridded rainfall dataset for Peru from 1981 to the present day. Hydrological Sciences Journal, (just-accepted).&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;MLA:&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Aybar, Cesar, et al. &amp;ldquo;Construction of a high-resolution gridded rainfall dataset for Peru from 1981 to the present day.&amp;rdquo; Hydrological Sciences Journal just-accepted (2019).&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Chicago:&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Aybar, Cesar, Carlos Fernández, Adrian Huerta, Waldo Lavado, Fiorella Vega, and Oscar Felipe-Obando. &amp;ldquo;Construction of a high-resolution gridded rainfall dataset for Peru from 1981 to the present day.&amp;rdquo; Hydrological Sciences Journal just-accepted (2019).&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Harvard:&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Aybar, C., Fernández, C., Huerta, A., Lavado, W., Vega, F. and Felipe-Obando, O., 2019. Construction of a high-resolution gridded rainfall dataset for Peru from 1981 to the present day. Hydrological Sciences Journal, (just-accepted).&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Vancouver:&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Aybar C, Fernández C, Huerta A, Lavado W, Vega F, Felipe-Obando O. Construction of a high-resolution gridded rainfall dataset for Peru from 1981 to the present day. Hydrological Sciences Journal. 2019 Jul 29(just-accepted).&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>PLUVIOMETROS</title>
+      <link>https://csaybar.github.io/webPISCO/spa/raingauges/</link>
+      <pubDate>Tue, 20 Aug 2019 21:38:52 +0800</pubDate>
+      
+      <guid>https://csaybar.github.io/webPISCO/spa/raingauges/</guid>
+      
+        <description>&lt;p&gt;La base bruta de pluviómetros comprendía 945 datos de observación diaria proporcionados por SENAMHI. Los datos de pluviómetro abarcan el período 1981-2018* y se caracterizan por un alto número de valores faltantes y numerosos problemas de calidad, generalmente causados por el observador en el momento de la recopilación de datos y mal funcionamiento de la instrumentación. Aunque la información de metadatos ayudaría a realizar el control de calidad de los datos, esto no se usó debido a su disponibilidad limitada. Por lo tanto, nuestro análisis de datos de pluviómetro se centró principalmente en la detección de errores graves y en métodos de completación de datos faltantes. Más detalles ver el artículo científico &lt;a href=&#34;https://www.tandfonline.com/doi/full/10.1080/02626667.2019.1649411&#34;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Para descargar los datos de pluviómetros de PISCOp V2.1 haga clic en los siguientes enlaces:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/PISCOprec/PISCOprec.github.io/raw/master/data/raw_daily_dataset&#34;&gt;Datos brutos diarios&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/PISCOprec/PISCOprec.github.io/raw/master/data/completed_daily_dataset&#34;&gt;Datos completos diarios&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/PISCOprec/PISCOprec.github.io/raw/master/data/raw_monthly_dataset&#34;&gt;Datos brutos mensuales&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/PISCOprec/PISCOprec.github.io/raw/master/data/completed_monthly_dataset&#34;&gt;Datos completos mensuales&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/PISCOprec/PISCOprec.github.io/raw/master/data/pisco_f&#34;&gt;Vizualización&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>LEEME</title>
+      <link>https://csaybar.github.io/webPISCO/spa/about/</link>
+      <pubDate>Tue, 20 Aug 2019 21:38:52 +0800</pubDate>
+      
+      <guid>https://csaybar.github.io/webPISCO/spa/about/</guid>
+      
+        <description>&lt;p&gt;Este sitio web presenta PISCOp V2.1, un nuevo conjunto de datos de lluvia a nivel nacional, encabezado por el Servicio Nacional de Meteorología e Hidrología del Perú (SENAMHI).&lt;/p&gt;
+
+&lt;p&gt;PISCOp V.2.1 contiene cuadrículas de lluvia diarias y mensuales a 0.1 ° calculadas para 1981–2018*. Se construye utilizando datos de pluviómetros completados, CHIRP V2.0, climatologías de precipitación generadas a partir de datos de radar, geoestadística y métodos de interpolación determinísticos, y un factor de corrección mensual simple aplicado a las estimaciones diarias. Más detalles del algoritmo &lt;a href=&#34;https://www.tandfonline.com/doi/full/10.1080/02626667.2019.1649411&#34;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;ESTADO ACTUAL DE PISCOp (IMPORTANTE!)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Actualmente, SENAMHI ha SUSPENDIDO el soporte para la generación de PISCOp V2.1 casi en tiempo real (latencia de ocho semanas). Esto significa que no podrá acceder a los valores de precipitación de PISCOp V2.1 para fechas posteriores al 30/06/2018 (al menos en este sitio web). Si necesita información reciente de PISCOp V2.1, póngase en contacto con Waldo Lavado (wlavado@senamhi.gob.pe) o con Fiorella Vega (fvega@senamhi.gob.pe). Vea el último enlace sobre PISCOp en el sitio web de SENAMHI &lt;a href=&#34;https://www.senamhi.gob.pe/?p=prensa&amp;amp;n=1003&#34;&gt;aquí&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>Download PISCOp using Google Earth Engine (Javascript)</title>
+      <link>https://csaybar.github.io/webPISCO/spa/2018/03/06/download-piscop-using-google-earth-engine-javascript/</link>
+      <pubDate>Tue, 06 Mar 2018 16:01:23 +0800</pubDate>
+      
+      <guid>https://csaybar.github.io/webPISCO/spa/2018/03/06/download-piscop-using-google-earth-engine-javascript/</guid>
+      
+        <description>&lt;p&gt;This is a simple preview for styles in Den.&lt;/p&gt;
+
+&lt;h2 id=&#34;header&#34;&gt;Header&lt;/h2&gt;
+
+&lt;p&gt;A paragraph is like this.&lt;/p&gt;
+
+&lt;p&gt;A paragraph might be very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very long.&lt;/p&gt;
+
+&lt;h3 id=&#34;headers&#34;&gt;Headers&lt;/h3&gt;
+
+&lt;h4 id=&#34;headers-1&#34;&gt;Headers&lt;/h4&gt;
+
+&lt;h2 id=&#34;code-blocks&#34;&gt;Code blocks&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code&gt;text code blocks
+text code blocks
+text code blocks
+text code blocks
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;highlighted-code-blocks&#34;&gt;Highlighted Code Blocks&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;k&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello world&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2 id=&#34;blockquotes&#34;&gt;Blockquotes&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;This is a blockquote with two paragraphs. This is first paragraph.&lt;/p&gt;
+
+&lt;p&gt;This is second pragraph.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;lists&#34;&gt;Lists&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Red&lt;/li&gt;
+&lt;li&gt;Green&lt;/li&gt;
+&lt;li&gt;Blue&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Red&lt;/li&gt;
+&lt;li&gt;Green&lt;/li&gt;
+&lt;li&gt;Blue
+
+&lt;ul&gt;
+&lt;li&gt;A&lt;/li&gt;
+&lt;li&gt;B&lt;/li&gt;
+&lt;li&gt;C
+
+&lt;ol&gt;
+&lt;li&gt;D&lt;/li&gt;
+&lt;li&gt;E&lt;/li&gt;
+&lt;li&gt;F&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;task-list&#34;&gt;Task List&lt;/h2&gt;
+
+&lt;ul class=&#34;task-list&#34;&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; a task list item&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; list syntax &lt;del&gt;required&lt;/del&gt;&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; normal &lt;strong&gt;formatting&lt;/strong&gt;&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; incomplete&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; completed&lt;/label&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;formatted-texts&#34;&gt;Formatted Texts&lt;/h2&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Name&lt;/th&gt;
+&lt;th&gt;Markdown&lt;/th&gt;
+&lt;th&gt;HTML tag&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;em&gt;Emphasis&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;*Emphasis*&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;&amp;lt;em&amp;gt;&amp;lt;/em&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Strong&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;**Strong**&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;code&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;`code`&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;&amp;lt;code&amp;gt;&amp;lt;/code&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;del&gt;Strikethrough&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;~~Strikethrough~~&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;&amp;lt;del&amp;gt;&amp;lt;/del&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Underline&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;__underline__&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;&amp;lt;u&amp;gt;&amp;lt;/u&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;kbd&gt;Key&lt;/kbd&gt;&lt;/td&gt;
+&lt;td&gt;&amp;lt;kbd&amp;gt;Key&amp;lt;/kbd&amp;gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;&amp;lt;kbd&amp;gt;&amp;lt;/kbd&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;tables&#34;&gt;Tables&lt;/h2&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;A&lt;/th&gt;
+&lt;th&gt;B&lt;/th&gt;
+&lt;th&gt;C&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;a&lt;/td&gt;
+&lt;td&gt;b&lt;/td&gt;
+&lt;td&gt;c&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;d&lt;/td&gt;
+&lt;td&gt;e&lt;/td&gt;
+&lt;td&gt;f&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;footnotes&#34;&gt;Footnotes&lt;/h2&gt;
+
+&lt;p&gt;You can create footnotes like this&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:footnote&#34;&gt;&lt;a href=&#34;#fn:footnote&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;horizontal-rules&#34;&gt;Horizontal Rules&lt;/h2&gt;
+
+&lt;p&gt;A rule.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;A rule.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
+
+&lt;p&gt;This is &lt;a href=&#34;http://example.com/&#34; title=&#34;Title&#34;&gt;an example&lt;/a&gt; inline link.&lt;/p&gt;
+
+&lt;h2 id=&#34;images&#34;&gt;Images&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Octicons-globe.svg/240px-Octicons-globe.svg.png&#34; alt=&#34;Globe&#34; /&gt;&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li id=&#34;fn:footnote&#34;&gt;Here is the &lt;em&gt;text&lt;/em&gt; of the &lt;strong&gt;footnote&lt;/strong&gt;.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:footnote&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Download PISCOp using Google Earth Engine (R-COMMING SOON!)</title>
+      <link>https://csaybar.github.io/webPISCO/spa/2018/03/04/download-piscop-using-google-earth-engine-r-comming-soon/</link>
+      <pubDate>Sun, 04 Mar 2018 16:01:23 +0800</pubDate>
+      
+      <guid>https://csaybar.github.io/webPISCO/spa/2018/03/04/download-piscop-using-google-earth-engine-r-comming-soon/</guid>
+      
+        <description>&lt;p&gt;This is a simple note.&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>Download using the SENAMHI FTP</title>
+      <link>https://csaybar.github.io/webPISCO/spa/2018/03/04/download-using-the-senamhi-ftp/</link>
+      <pubDate>Sun, 04 Mar 2018 16:01:23 +0800</pubDate>
+      
+      <guid>https://csaybar.github.io/webPISCO/spa/2018/03/04/download-using-the-senamhi-ftp/</guid>
+      
+        <description>
+
+&lt;h2 id=&#34;twiiter&#34;&gt;Twiiter&lt;/h2&gt;
+
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Hugo 0.24 Released: Big archetype update + &lt;a href=&#34;https://twitter.com/Netlify?ref_src=twsrc%5Etfw&#34;&gt;@Netlify&lt;/a&gt; _redirects etc. file support&lt;a href=&#34;https://t.co/X94FmYDEZJ&#34;&gt;https://t.co/X94FmYDEZJ&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/gohugo?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#gohugo&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/golang?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#golang&lt;/a&gt; &lt;a href=&#34;https://twitter.com/spf13?ref_src=twsrc%5Etfw&#34;&gt;@spf13&lt;/a&gt; &lt;a href=&#34;https://twitter.com/bepsays?ref_src=twsrc%5Etfw&#34;&gt;@bepsays&lt;/a&gt;&lt;/p&gt;&amp;mdash; GoHugo.io (@GoHugoIO) &lt;a href=&#34;https://twitter.com/GoHugoIO/status/877500564405444608?ref_src=twsrc%5Etfw&#34;&gt;June 21, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
+&lt;h2 id=&#34;google-map&#34;&gt;Google Map&lt;/h2&gt;
+
+&lt;div class=&#34;embed googlemaps&#34;&gt;
+	&lt;iframe
+		src=&#34;https://mapsengine.google.com/map/embed?mid=17_6iCOL6LkRjIFGPKmXBxjsvbBc&#34;
+		frameborder=&#34;0&#34;
+		scrolling=&#34;no&#34;
+        width=&#34;100%&#34;
+        height=&#34;400&#34;
+        &gt;
+	&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;h2 id=&#34;figure&#34;&gt;Figure&lt;/h2&gt;
+
+
+
+&lt;div class=&#34;box aligncenter&#34; style=&#34;max-width:300px;&#34;&gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img  itemprop=&#34;thumbnail&#34; src=&#34;https://csaybar.github.io/webPISCO/images/globe.svg&#34; alt=&#34;Globe&#34; /&gt;
+    &lt;/div&gt;
+    
+      &lt;figcaption&gt;
+          &lt;p&gt;&lt;strong&gt;Globe&lt;/strong&gt;
+              
+          &lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+
+&lt;h2 id=&#34;highlight-for-shells&#34;&gt;Highlight for Shells&lt;/h2&gt;
+
+&lt;div class=&#34;sh-highlight&#34;&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# test&lt;/span&gt;
+&lt;span class=&#34;hl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;echo&lt;/span&gt; &lt;span class=&#34;nb&#34;&gt;test&lt;/span&gt;
+&lt;/span&gt;&lt;span class=&#34;c1&#34;&gt;# just a test&lt;/span&gt;
+&lt;span class=&#34;hl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;echo&lt;/span&gt; hello world&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+</description>
+      
+    </item>
+    
+    <item>
+      <title>Download PISCOp using Google Earth Engine (Python)</title>
+      <link>https://csaybar.github.io/webPISCO/spa/2018/03/03/download-piscop-using-google-earth-engine-python/</link>
+      <pubDate>Sat, 03 Mar 2018 16:01:23 +0800</pubDate>
+      
+      <guid>https://csaybar.github.io/webPISCO/spa/2018/03/03/download-piscop-using-google-earth-engine-python/</guid>
+      
+        <description>&lt;p&gt;This is a simple note.&lt;/p&gt;
+</description>
+      
+    </item>
+    
+  </channel>
+</rss>
