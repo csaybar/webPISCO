@@ -11,8 +11,8 @@ La base bruta de pluviómetros utilizados en PISCOp V2.1 contó con 945 pluvióm
 
 Para descargar los datos de pluviómetros de PISCOp V2.1 haga clic en los siguientes enlaces:
 
-- [Datos brutos diarios](https://github.com/PISCOprec/PISCOprec.github.io/raw/master/data/raw_daily_dataset)
-- [Datos completos diarios](https://github.com/PISCOprec/PISCOprec.github.io/raw/master/data/completed_daily_dataset)
-- [Datos brutos mensuales](https://github.com/PISCOprec/PISCOprec.github.io/raw/master/data/raw_monthly_dataset)
+- [Datos brutos diarios](https://github.com/csaybar/PISCOp/raw/master/raw_daily_dataset)
+- [Datos completos diarios](https://github.com/csaybar/PISCOp/raw/master/completed_daily_dataset)
+- [Datos brutos mensuales](https://github.com/csaybar/PISCOp/raw/master/raw_monthly_dataset)
 - [Datos completos mensuales](https://github.com/csaybar/PISCOp/raw/master/completed_monthly_dataset)
-- [Vizualización](https://github.com/PISCOprec/PISCOprec.github.io/raw/master/data/pisco_f)
+- [Vizualización](https://github.com/csaybar/PISCOp/raw/master/pisco_f)
