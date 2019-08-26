@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on PISCOp V2.1</title>
+    <link>/webPISCO/en/post/</link>
+    <description>Recent content in Posts on PISCOp V2.1</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 06 Mar 2018 16:01:23 +0800</lastBuildDate>
+    
+	<atom:link href="/webPISCO/en/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Download PISCOp using Google Earth Engine (Javascript)</title>
+      <link>/webPISCO/en/post/ee_jv/</link>
+      <pubDate>Tue, 06 Mar 2018 16:01:23 +0800</pubDate>
+      
+      <guid>/webPISCO/en/post/ee_jv/</guid>
+      <description>&lt;p&gt;This is a simple preview for styles in Den.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Download PISCOp using Google Earth Engine (R-COMMING SOON!)</title>
+      <link>/webPISCO/en/post/ee_r/</link>
+      <pubDate>Sun, 04 Mar 2018 16:01:23 +0800</pubDate>
+      
+      <guid>/webPISCO/en/post/ee_r/</guid>
+      <description>This is a simple note.</description>
+    </item>
+    
+    <item>
+      <title>Download using the SENAMHI FTP</title>
+      <link>/webPISCO/en/post/download_data_ftp/</link>
+      <pubDate>Sun, 04 Mar 2018 16:01:23 +0800</pubDate>
+      
+      <guid>/webPISCO/en/post/download_data_ftp/</guid>
+      <description> Twiiter Hugo 0.24 Released: Big archetype update + @Netlify _redirects etc. file supporthttps://t.co/X94FmYDEZJ #gohugo #golang @spf13 @bepsays
+&amp;mdash; GoHugo.io (@GoHugoIO) June 21, 2017  Google Map   Figure   Globe    Highlight for Shells # test echo test # just a test echo hello world </description>
+    </item>
+    
+    <item>
+      <title>Download PISCOp using Google Earth Engine (Python)</title>
+      <link>/webPISCO/en/post/ee_py/</link>
+      <pubDate>Sat, 03 Mar 2018 16:01:23 +0800</pubDate>
+      
+      <guid>/webPISCO/en/post/ee_py/</guid>
+      <description>This is a simple note.</description>
+    </item>
+    
+  </channel>
+</rss>
