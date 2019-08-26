@@ -1,0 +1,13 @@
+url = "https://csaybar.github.io/"
+
+[name]
+display = "csaybar"
+
+[image]
+# url = "https://static.turbosquid.com/Preview/2016/03/15__01_14_27/MinecraftPigRigged3dmodel02.jpg449153c2-4915-4f7e-af2c-2d9e64ca1920Original.jpg"
+
+[spa]
+description = "Aimer super fan!"
+
+[en]
+description = "Aimer super fan!"

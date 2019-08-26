@@ -13,4 +13,4 @@ PISCOp V.2.1 contains daily and monthly rainfall grids at 0.1° computed for 198
 
 **STATE OF PISCOp (README!)** 
 
-**Currently, SENAMHI has been discontinued the support for the generation of PISCOp V2.1 at near-real-time (latency of eight weeks). It means that you do not be able for access to PISCOp V2.1 rainfall values for dates after to 2018-06-30 (at least by this website). If you need recent PISCOp V2.1 information, please get in contact with Waldo Lavado (wlavado@senamhi.gob.pe) or Fiorella Vega (fvega@senamhi.gob.pe). See the last link about PISCOp at SENAMHI website [here](https://www.senamhi.gob.pe/?p=prensa&n=1003).**
+**Currently, SENAMHI has SUSPENDED the support for the generation of PISCOp V2.1 at near-real-time (latency of eight weeks). It means that you do not be able for access to PISCOp V2.1 rainfall values for dates after to 2018-06-30 (at least by this website). If you need recent PISCOp V2.1 information, please get in contact with Waldo Lavado (wlavado@senamhi.gob.pe) or Fiorella Vega (fvega@senamhi.gob.pe). See the last link about PISCOp at SENAMHI website [here](https://www.senamhi.gob.pe/?p=prensa&n=1003).**

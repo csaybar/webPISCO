@@ -6,27 +6,18 @@
     <description>Recent content in notes on PISCOp V2.1</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 04 Mar 2018 16:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 03 Mar 2018 16:01:23 +0800</lastBuildDate>
     
 	<atom:link href="/webPISCO/en/tag/notes/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Download PISCOp using Google Earth Engine (R-COMMING SOON!)</title>
-      <link>/webPISCO/en/post/ee_r/</link>
-      <pubDate>Sun, 04 Mar 2018 16:01:23 +0800</pubDate>
-      
-      <guid>/webPISCO/en/post/ee_r/</guid>
-      <description>This is a simple note.</description>
-    </item>
-    
-    <item>
       <title>Download PISCOp using Google Earth Engine (Python)</title>
-      <link>/webPISCO/en/post/ee_py/</link>
+      <link>/webPISCO/en/2018/03/03/download-piscop-using-google-earth-engine-python/</link>
       <pubDate>Sat, 03 Mar 2018 16:01:23 +0800</pubDate>
       
-      <guid>/webPISCO/en/post/ee_py/</guid>
-      <description>This is a simple note.</description>
+      <guid>/webPISCO/en/2018/03/03/download-piscop-using-google-earth-engine-python/</guid>
+      <description> Daily example here Monthly example here  </description>
     </item>
     
   </channel>

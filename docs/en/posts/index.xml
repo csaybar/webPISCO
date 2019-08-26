@@ -2,50 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on PISCOp V2.1</title>
-    <link>https://csaybar.github.io/webPISCO/en/posts/</link>
+    <link>/webPISCO/en/posts/</link>
     <description>Recent content in Posts on PISCOp V2.1</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 06 Mar 2018 16:01:23 +0800</lastBuildDate>
     
-	<atom:link href="https://csaybar.github.io/webPISCO/en/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/webPISCO/en/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Download PISCOp using Google Earth Engine (Javascript)</title>
-      <link>https://csaybar.github.io/webPISCO/en/2018/03/06/download-piscop-using-google-earth-engine-javascript/</link>
+      <link>/webPISCO/en/2018/03/06/download-piscop-using-google-earth-engine-javascript/</link>
       <pubDate>Tue, 06 Mar 2018 16:01:23 +0800</pubDate>
       
-      <guid>https://csaybar.github.io/webPISCO/en/2018/03/06/download-piscop-using-google-earth-engine-javascript/</guid>
-      <description>&lt;p&gt;This is a simple preview for styles in Den.&lt;/p&gt;</description>
+      <guid>/webPISCO/en/2018/03/06/download-piscop-using-google-earth-engine-javascript/</guid>
+      <description> Repository here Daily example - here Monthly example here  </description>
     </item>
     
     <item>
       <title>Download PISCOp using Google Earth Engine (R-COMMING SOON!)</title>
-      <link>https://csaybar.github.io/webPISCO/en/2018/03/04/download-piscop-using-google-earth-engine-r-comming-soon/</link>
+      <link>/webPISCO/en/2018/03/04/download-piscop-using-google-earth-engine-r-comming-soon/</link>
       <pubDate>Sun, 04 Mar 2018 16:01:23 +0800</pubDate>
       
-      <guid>https://csaybar.github.io/webPISCO/en/2018/03/04/download-piscop-using-google-earth-engine-r-comming-soon/</guid>
-      <description>This is a simple note.</description>
+      <guid>/webPISCO/en/2018/03/04/download-piscop-using-google-earth-engine-r-comming-soon/</guid>
+      <description>come back here in at least two months &amp;hellip; Sorry!</description>
     </item>
     
     <item>
       <title>Download using the SENAMHI FTP</title>
-      <link>https://csaybar.github.io/webPISCO/en/2018/03/04/download-using-the-senamhi-ftp/</link>
+      <link>/webPISCO/en/2018/03/04/download-using-the-senamhi-ftp/</link>
       <pubDate>Sun, 04 Mar 2018 16:01:23 +0800</pubDate>
       
-      <guid>https://csaybar.github.io/webPISCO/en/2018/03/04/download-using-the-senamhi-ftp/</guid>
-      <description> Twiiter Hugo 0.24 Released: Big archetype update + @Netlify _redirects etc. file supporthttps://t.co/X94FmYDEZJ #gohugo #golang @spf13 @bepsays
-&amp;mdash; GoHugo.io (@GoHugoIO) June 21, 2017  Google Map   Figure   Globe    Highlight for Shells # test echo test # just a test echo hello world </description>
+      <guid>/webPISCO/en/2018/03/04/download-using-the-senamhi-ftp/</guid>
+      <description> FTP de SENAMHI please do not misbehave.
+ ftp: ftp://@ftp.senamhi.gob.pe/ user: publi_dgh2 pass: 123456  </description>
     </item>
     
     <item>
       <title>Download PISCOp using Google Earth Engine (Python)</title>
-      <link>https://csaybar.github.io/webPISCO/en/2018/03/03/download-piscop-using-google-earth-engine-python/</link>
+      <link>/webPISCO/en/2018/03/03/download-piscop-using-google-earth-engine-python/</link>
       <pubDate>Sat, 03 Mar 2018 16:01:23 +0800</pubDate>
       
-      <guid>https://csaybar.github.io/webPISCO/en/2018/03/03/download-piscop-using-google-earth-engine-python/</guid>
-      <description>This is a simple note.</description>
+      <guid>/webPISCO/en/2018/03/03/download-piscop-using-google-earth-engine-python/</guid>
+      <description> Daily example here Monthly example here  </description>
     </item>
     
   </channel>

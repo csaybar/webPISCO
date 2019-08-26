@@ -30,85 +30,48 @@
   </url>
   
   <url>
-    <loc>/webPISCO/spa/post/ee_jv/</loc>
+    <loc>/webPISCO/spa/2018/03/06/descarga-piscop-usando-google-earth-engine-javascript/</loc>
     <lastmod>2018-03-07T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/webPISCO/spa/post/</loc>
+    <loc>/webPISCO/spa/posts/</loc>
     <lastmod>2018-03-07T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/webPISCO/spa/tag/preview/</loc>
-    <lastmod>2018-03-07T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/webPISCO/spa/tag/shortcodes/</loc>
-    <lastmod>2018-03-07T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/webPISCO/spa/tags/</loc>
-    <lastmod>2018-03-07T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/webPISCO/spa/tag/tutorial/</loc>
-    <lastmod>2018-03-07T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/webPISCO/spa/categories/</loc>
-    <lastmod>2018-03-04T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/webPISCO/spa/post/ee_r/</loc>
-    <lastmod>2018-03-04T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/webPISCO/spa/post/download_data_ftp/</loc>
+    <loc>/webPISCO/spa/2018/03/04/descarge-piscop-usago-google-earth-engine-r-comming-soon/</loc>
     <lastmod>2018-03-05T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/webPISCO/spa/category/notes/</loc>
-    <lastmod>2018-03-04T16:01:23+08:00</lastmod>
+    <loc>/webPISCO/spa/2018/03/04/download-using-the-senamhi-ftp/</loc>
+    <lastmod>2018-03-05T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/webPISCO/spa/tag/notes/</loc>
-    <lastmod>2018-03-04T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/webPISCO/spa/post/ee_py/</loc>
+    <loc>/webPISCO/spa/2018/03/03/descarga-piscop-usando-google-earth-engine-python/</loc>
     <lastmod>2018-03-03T16:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/webPISCO/spa/categories/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/webPISCO/spa/tags/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
